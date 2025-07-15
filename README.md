@@ -35,3 +35,4 @@ python
 !pip install -q PyMuPDF
 ## Author
 K Neeli Meghana
+## If you find this useful or insightful, please consider giving it a star on GitHub
